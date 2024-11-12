@@ -2,4 +2,4 @@
 
 
 #closed tasks
-Add Pylint badge to README #2
+Add Pylint badge to README
