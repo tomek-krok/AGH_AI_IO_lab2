@@ -1,5 +1,4 @@
 # some about AGH IO lab2
 
-#closed tasks below
-
+#closed tasks below:
 Add Pylint badge to README
